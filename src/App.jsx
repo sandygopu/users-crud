@@ -12,7 +12,7 @@ function App() {
   const [updateInfo, setUpdateInfo] = useState()
 
 
-const baseUrl= 'https://userscrud-0nlt.onrender.com'
+const baseUrl= 'http://localhost:8080'
 
 const [
   users, 
